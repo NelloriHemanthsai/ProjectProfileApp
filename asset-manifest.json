@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ProjectProfileApp/static/css/main.402efafc.css",
+    "main.js": "/ProjectProfileApp/static/js/main.f5fbd3c9.js",
+    "index.html": "/ProjectProfileApp/index.html",
+    "main.402efafc.css.map": "/ProjectProfileApp/static/css/main.402efafc.css.map",
+    "main.f5fbd3c9.js.map": "/ProjectProfileApp/static/js/main.f5fbd3c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.402efafc.css",
+    "static/js/main.f5fbd3c9.js"
+  ]
+}
